@@ -1,0 +1,56 @@
+name: Mettre à jour l’index de recherche
+
+on:
+  schedule:
+    - cron: "17 4 * * 1"      # chaque lundi à 04:17 UTC
+  workflow_dispatch:           # bouton « Run workflow » dans l’onglet Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: search-index
+  cancel-in-progress: false
+
+env:
+  SITEMAP_URL: "https://izilyfire.fr/sitemap.xml"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Générer l’index depuis le sitemap
+        run: |
+          python generate_search_index.py \
+            --sitemap "$SITEMAP_URL" \
+            --out search-index.json \
+            --exclude "/mentions-legales*" \
+            --exclude "/politique-de-confidentialite*"
+          # Ajoutez --prune pour retirer les pages qui n’existent plus
+
+      - name: Enregistrer si l’index a changé
+        id: commit
+        run: |
+          if [ -z "$(git status --porcelain search-index.json)" ]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "Index inchangé."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add search-index.json
+          git commit -m "chore: mise à jour de l’index de recherche"
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Purger le cache jsDelivr
+        if: steps.commit.outputs.changed == 'true'
+        run: |
+          curl -fsS "https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/search-index.json" \
+            || echo "Purge ignorée : le cache expirera de lui-même."
