@@ -1,20 +1,18 @@
 [
   {
-    "id": "strategie-etf",
-    "title": "La stratégie ETF pour l’indépendance financière",
-    "url": "/strategie-etf",
-    "category": "Guides",
-    "description": "Comprendre les ETF, choisir un indice, limiter les frais et construire un portefeuille simple et durable pour atteindre le FIRE.",
-    "keywords": ["ETF", "fonds indiciels", "MSCI World", "frais", "investissement passif", "portefeuille", "FIRE"],
-    "featured": true
-  },
-  {
-    "id": "simulateur-scpi",
-    "title": "Simulateur SCPI : nue-propriété ou crédit",
-    "url": "/outils/simulateur-scpi",
-    "category": "Outils",
-    "description": "Comparez une SCPI en nue-propriété payée comptant avec une SCPI en pleine propriété à crédit : rendement, fiscalité et patrimoine final.",
-    "keywords": ["SCPI", "nue-propriété", "crédit", "simulateur", "immobilier", "rendement", "fiscalité"],
+    "id": "idees-recues-fire",
+    "title": "Idées reçues et fausses idées sur le FIRE",
+    "url": "/articles/idees-recues-fire",
+    "category": "Articles",
+    "description": "Il faut être riche, vivre de pâtes, renoncer à tout : on démonte les mythes les plus répandus sur l’indépendance financière.",
+    "keywords": [
+      "FIRE",
+      "mythes",
+      "indépendance financière",
+      "retraite anticipée",
+      "Lean FIRE",
+      "Fat FIRE"
+    ],
     "featured": true
   },
   {
@@ -23,15 +21,3722 @@
     "url": "/glossaire/budget-frugalisme",
     "category": "Glossaire",
     "description": "Les termes essentiels pour maîtriser son budget : taux d’épargne, frugalisme, inflation du train de vie, règle des 4 %.",
-    "keywords": ["budget", "frugalisme", "taux d’épargne", "règle des 4 %", "épargne", "dépenses", "psychologie"]
+    "keywords": [
+      "budget",
+      "frugalisme",
+      "taux d’épargne",
+      "règle des 4 %",
+      "épargne",
+      "dépenses",
+      "psychologie"
+    ]
   },
   {
-    "id": "idees-recues-fire",
-    "title": "Idées reçues et fausses idées sur le FIRE",
-    "url": "/articles/idees-recues-fire",
-    "category": "Articles",
-    "description": "Il faut être riche, vivre de pâtes, renoncer à tout : on démonte les mythes les plus répandus sur l’indépendance financière.",
-    "keywords": ["FIRE", "mythes", "indépendance financière", "retraite anticipée", "Lean FIRE", "Fat FIRE"],
+    "id": "strategie-etf",
+    "title": "La stratégie ETF pour l’indépendance financière",
+    "url": "/strategie-etf",
+    "category": "Guides",
+    "description": "Comprendre les ETF, choisir un indice, limiter les frais et construire un portefeuille simple et durable pour atteindre le FIRE.",
+    "keywords": [
+      "ETF",
+      "fonds indiciels",
+      "MSCI World",
+      "frais",
+      "investissement passif",
+      "portefeuille",
+      "FIRE"
+    ],
     "featured": true
+  },
+  {
+    "id": "simulateur-scpi",
+    "title": "Simulateur SCPI : nue-propriété ou crédit",
+    "url": "/outils/simulateur-scpi",
+    "category": "Outils",
+    "description": "Comparez une SCPI en nue-propriété payée comptant avec une SCPI en pleine propriété à crédit : rendement, fiscalité et patrimoine final.",
+    "keywords": [
+      "SCPI",
+      "nue-propriété",
+      "crédit",
+      "simulateur",
+      "immobilier",
+      "rendement",
+      "fiscalité"
+    ],
+    "featured": true
+  },
+  {
+    "id": "10-erreurs-a-eviter",
+    "title": "10 erreurs à éviter | IZILY FIRE",
+    "url": "/10-erreurs-a-eviter",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "7-erreurs-de-debutant-qui-rongent-vos-rendements-en-silence",
+    "title": "7 erreurs de débutant qui rongent vos rendements en silence | IZILY FIRE",
+    "url": "/7-erreurs-de-debutant-qui-rongent-vos-rendements-en-silence",
+    "category": "Pages",
+    "description": "Description de l'article de blog :",
+    "keywords": [
+      "immobilier",
+      "actifs",
+      "assurance",
+      "correction",
+      "frais",
+      "effet"
+    ]
+  },
+  {
+    "id": "a-propos",
+    "title": "A propos | IZILY FIRE",
+    "url": "/a-propos",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "abonnement",
+    "title": "Abonnement | IZILY FIRE",
+    "url": "/abonnement",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "(Prise en compte immédiate)",
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "accueil-2",
+    "title": "ACCUEIL 2 | IZILY FIRE",
+    "url": "/accueil-2",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "accueil-bis",
+    "title": "Accueil bis | IZILY FIRE",
+    "url": "/accueil-bis",
+    "category": "Pages",
+    "description": "Le spécialiste francophone du mouvement FIRE",
+    "keywords": [
+      "Ingénierie patrimoniale & coaching",
+      "Audit Patrimonial FIRE",
+      "immobilier",
+      "meilleurs",
+      "outils",
+      "actifs",
+      "rendement",
+      "stratégies"
+    ]
+  },
+  {
+    "id": "actions",
+    "title": "Actions | IZILY FIRE",
+    "url": "/actions",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "actus-economiques",
+    "title": "Actus économiques | IZILY FIRE",
+    "url": "/actus-economiques",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "appel",
+    "title": "Appel | IZILY FIRE",
+    "url": "/appel",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "articles",
+    "title": "Articles | IZILY FIRE",
+    "url": "/articles",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "assurance-vie-luxembourgeoise",
+    "title": "Assurance vie luxembourgeoise | IZILY FIRE",
+    "url": "/assurance-vie-luxembourgeoise",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "assurance-vie",
+    "title": "Assurance vie | IZILY FIRE",
+    "url": "/assurance-vie",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "audit-fiscalit-phase-de-retrait",
+    "title": "Audit Fiscalité & Phase de Retrait | IZILY FIRE",
+    "url": "/audit-fiscalit--phase-de-retrait",
+    "category": "Pages",
+    "description": "Stratégie d'extraction de capital sécurisée (SWR) et optimisation des tirages pour minimiser la fiscalité lors de la phase de rente.",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "optimisation",
+      "psychologie",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "barista-fire",
+    "title": "Barista FIRE | IZILY FIRE",
+    "url": "/barista-fire",
+    "category": "Pages",
+    "description": "Atteindre un patrimoine intermédiaire qui couvre une partie des dépenses, et travailler à temps partiel pour le reste.",
+    "keywords": [
+      "immobilier",
+      "barista",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs"
+    ]
+  },
+  {
+    "id": "bilan-and-strategie-fire",
+    "title": "Bilan & stratégie fire | IZILY FIRE",
+    "url": "/bilan-and-strategie-fire",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "blog-list",
+    "title": "Blog | IZILY FIRE",
+    "url": "/blog-list",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "bourse-et-gestion-passive",
+    "title": "Bourse et gestion passive | IZILY FIRE",
+    "url": "/bourse-et-gestion-passive",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "bourse",
+    "title": "Bourse | IZILY FIRE",
+    "url": "/bourse",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "boutique",
+    "title": "Boutique | IZILY FIRE",
+    "url": "/boutique",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "cadre-legal-fiscal-et-social-copy",
+    "title": "Cadre Légal, Fiscal et social Copy | IZILY FIRE",
+    "url": "/cadre-legal-fiscal-et-social-copy",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "calculs-de-capital-et-retrait",
+    "title": "Calculs de Capital et Retrait | IZILY FIRE",
+    "url": "/calculs-de-capital-et-retrait",
+    "category": "Pages",
+    "description": "La Règle des 25 (FIRE Number) : Multiplier le montant de ses dépenses annuelles cibles par 25 pour obtenir le capital total à accumuler (ex. 30 000 € de dépenses = 750 000 € de…",
+    "keywords": [
+      "Définition et Calcul",
+      "Explications et Fonctionnement",
+      "Avantages",
+      "Inconvénients et Limites",
+      "Conseils d'Ajustement",
+      "Définition et Principe Mathématique",
+      "capital",
+      "règle",
+      "rendement",
+      "inflation",
+      "immobilier",
+      "retrait"
+    ]
+  },
+  {
+    "id": "cgu",
+    "title": "CGU | IZILY FIRE",
+    "url": "/cgu",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "chaines-youtube-2",
+    "title": "Chaînes Youtube 2 | IZILY FIRE",
+    "url": "/chaines-youtube-2",
+    "category": "Pages",
+    "description": "Ben Felix (anglophone) : Investissement fondé sur la recherche académique, théorie du portefeuille et gestion factorielle. La référence mondiale pour les profils rationnels…",
+    "keywords": [
+      "Chaînes recommandées",
+      "Chaînes Youtube de référence francophones",
+      "Top des chaînes Youtube anglophones",
+      "immobilier",
+      "bourse",
+      "gestion",
+      "francophone",
+      "financière",
+      "anglophone"
+    ]
+  },
+  {
+    "id": "chaines-youtube",
+    "title": "Chaînes Youtube | IZILY FIRE",
+    "url": "/chaines-youtube",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "chubby-fire",
+    "title": "Chubby FIRE | IZILY FIRE",
+    "url": "/chubby-fire",
+    "category": "Pages",
+    "description": "Dans une société de plus en plus numérique, le \"chubby fire\" rappelle l'importance des moments passés autour d'un feu. Que ce soit lors d'un camping entre amis, d'une soirée…",
+    "keywords": [
+      "immobilier",
+      "chubby",
+      "meilleurs",
+      "psychologie",
+      "effet",
+      "optimisation"
+    ]
+  },
+  {
+    "id": "services",
+    "title": "Coaching | IZILY FIRE",
+    "url": "/services",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "coast-fire",
+    "title": "Coast FIRE | IZILY FIRE",
+    "url": "/coast-fire",
+    "category": "Pages",
+    "description": "Le principe fondamental du coast FIRE repose sur l'idée que l'on peut travailler de manière intensive pendant une période donnée pour accumuler un capital suffisant, qui, grâce à…",
+    "keywords": [
+      "immobilier",
+      "coast",
+      "meilleurs",
+      "actifs",
+      "effet",
+      "financière"
+    ]
+  },
+  {
+    "id": "communaute-copy",
+    "title": "COMMUNAUTE copy | IZILY FIRE",
+    "url": "/communaute-copy",
+    "category": "Pages",
+    "description": "Statut : Célibataire, développeur web junior",
+    "keywords": [
+      "Les détails des profils",
+      "immobilier",
+      "actifs",
+      "rendement",
+      "meilleurs",
+      "philosophie",
+      "assurance"
+    ]
+  },
+  {
+    "id": "communaute",
+    "title": "Communauté | IZILY FIRE",
+    "url": "/communaute",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "Échanges et discussions",
+      "Progresser et identifiez-vous",
+      "Bientôt sur IZILY FIRE",
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "comparatifs",
+    "title": "Comparatifs | IZILY FIRE",
+    "url": "/comparatifs",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "concept-fire-copy",
+    "title": "Concept FIRE Copy | IZILY FIRE",
+    "url": "/concept-fire-copy",
+    "category": "Pages",
+    "description": "Pour bien démarrer votre parcours FIRE, évitez ces pièges fréquents.",
+    "keywords": [
+      "Pourquoi ça marche ?",
+      "Origine du mouvement",
+      "immobilier",
+      "épargne",
+      "meilleurs",
+      "outils",
+      "revenus",
+      "actifs"
+    ]
+  },
+  {
+    "id": "concepts-cles",
+    "title": "Concepts clés | IZILY FIRE",
+    "url": "/concepts-cles",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "contact",
+    "title": "Contact | IZILY FIRE",
+    "url": "/contact",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "crowdfunding-immobilier",
+    "title": "Crowdfunding immobilier | IZILY FIRE",
+    "url": "/crowdfunding-immobilier",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "cryptomonnaies",
+    "title": "Cryptomonnaies | IZILY FIRE",
+    "url": "/cryptomonnaies",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "credit-lombard",
+    "title": "Crédit Lombard | IZILY FIRE",
+    "url": "/credit-lombard",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "cto",
+    "title": "CTO | IZILY FIRE",
+    "url": "/cto",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "dashboard-finance-mondiale-copy",
+    "title": "Dashboard finance mondiale Copy | IZILY FIRE",
+    "url": "/dashboard-finance-mondiale-copy",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "dca",
+    "title": "DCA | IZILY FIRE",
+    "url": "/dca",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "diagnostic-initial-fire-audit",
+    "title": "Diagnostic Initial FIRE & Audit | IZILY FIRE",
+    "url": "/diagnostic-initial-fire--audit",
+    "category": "Pages",
+    "description": "Un état des lieux complet de vos finances personnelles pour calculer votre chiffre FIRE exact et auditer votre taux d'épargne actuel.",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "diagnostic",
+    "title": "Diagnostic | IZILY FIRE",
+    "url": "/diagnostic",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "discord",
+    "title": "Discord | IZILY FIRE",
+    "url": "/discord",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "diversification-inter-classes-actifs",
+    "title": "Diversification Inter-Classes d'Actifs | IZILY FIRE",
+    "url": "/diversification-inter-classes-actifs",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "decumulation-et-rente-viagere",
+    "title": "Décumulation et Rente Viagère | IZILY FIRE",
+    "url": "/decumulation-et-rente-viagere",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "defis-fire",
+    "title": "Défis FIRE | IZILY FIRE",
+    "url": "/defis-fire",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "effet-boule-de-neige",
+    "title": "Effet boule de neige | IZILY FIRE",
+    "url": "/effet-boule-de-neige",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "effet-cumule-des-dividendes",
+    "title": "Effet Cumulé des Dividendes | IZILY FIRE",
+    "url": "/effet-cumule-des-dividendes",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "effet-de-levier-credit-immobilier",
+    "title": "Effet de Levier Crédit Immobilier | IZILY FIRE",
+    "url": "/effet-de-levier-credit-immobilier",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "enveloppe-fiscale-optimisee",
+    "title": "Enveloppe Fiscale Optimisée | IZILY FIRE",
+    "url": "/enveloppe-fiscale-optimisee",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "etf",
+    "title": "ETF | IZILY FIRE",
+    "url": "/etf",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "httpsizilyfirefrfaq",
+    "title": "FAQ sur le Mouvement FIRE et l'Indépendance Financière | IZILY FIRE",
+    "url": "/httpsizilyfirefrfaq",
+    "category": "Pages",
+    "description": "Découvrez notre FAQ complète sur le mouvement FIRE (Financial Independence, Retire Early). Apprenez ce qu'est le FIRE, ses variantes, comment calculer votre 'fire number', et les…",
+    "keywords": [
+      "mouvement fire",
+      "financial independence",
+      "devenir financièrement indépendant",
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "fat-fire",
+    "title": "Fat FIRE | IZILY FIRE",
+    "url": "/fat-fire",
+    "category": "Pages",
+    "description": "Le terme \"fat fire\" se réfère à l'atteinte d'une indépendance financière suffisante pour vivre un style de vie luxueux et sans contraintes financières. Il repose sur…",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "retraite",
+      "revenus",
+      "financière",
+      "psychologie"
+    ]
+  },
+  {
+    "id": "fiscalite-des-sorties",
+    "title": "Fiscalité des sorties | IZILY FIRE",
+    "url": "/fiscalite-des-sorties",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "fondations-et-philosophie-fire",
+    "title": "Fondations et philosophie FIRE | IZILY FIRE",
+    "url": "/fondations-et-philosophie-fire",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "forum-fire",
+    "title": "Forum FIRE | IZILY FIRE",
+    "url": "/forum-fire",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "gestion-et-optimisation-du-budget",
+    "title": "Gestion et Optimisation du Budget | IZILY FIRE",
+    "url": "/gestion-et-optimisation-du-budget",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "glossaire-bourse",
+    "title": "Glossaire bourse | IZILY FIRE",
+    "url": "/glossaire-bourse",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "glossaire-budget-frugalisme",
+    "title": "Glossaire Budget et Frugalisme | IZILY FIRE",
+    "url": "/glossaire-budget-frugalisme",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "glossaire-fire",
+    "title": "Glossaire FIRE | IZILY FIRE",
+    "url": "/glossaire-fire",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "glossaire-fiscalite",
+    "title": "Glossaire fiscalité | IZILY FIRE",
+    "url": "/glossaire-fiscalite",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "glossaire-immobilier",
+    "title": "Glossaire immobilier | IZILY FIRE",
+    "url": "/glossaire-immobilier",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "glossaire-macroeconomie-inflation",
+    "title": "Glossaire Macroéconomie & Inflation | IZILY FIRE",
+    "url": "/glossaire-macroeconomie-inflation",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "glossaire-trading",
+    "title": "Glossaire trading | IZILY FIRE",
+    "url": "/glossaire-trading",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "glossaires",
+    "title": "Glossaires | IZILY FIRE",
+    "url": "/glossaires",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "decouvrir-le-mouvement-fire",
+    "title": "Guide vers l'Indépendance Financière | IZILY FIRE",
+    "url": "/decouvrir-le-mouvement-fire",
+    "category": "Pages",
+    "description": "Découvrez la page « découvrir » d'izily fire, votre guide vers l'indépendance financière et le mouvement FIRE. Apprenez étape par étape comment atteindre la liberté financière et…",
+    "keywords": [
+      "indépendance financière",
+      "mouvement fire",
+      "guide vers l'indépendance financière",
+      "Fondations et philosophie du FIRE",
+      "Stratégies d'investissement et enveloppes",
+      "Les conseils FIRE",
+      "immobilier",
+      "actifs",
+      "meilleurs",
+      "outils",
+      "revenus",
+      "stratégies"
+    ]
+  },
+  {
+    "id": "guides",
+    "title": "Guides | IZILY FIRE",
+    "url": "/guides",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "idees-recues-et-fausses-idees",
+    "title": "Idées reçues et fausses idées | IZILY FIRE",
+    "url": "/idees-recues-et-fausses-idees",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "immobilier-et-actifs-de-rendement",
+    "title": "Immobilier et actifs de rendement | IZILY FIRE",
+    "url": "/immobilier-et-actifs-de-rendement",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "immobilier-locatif-a-haut-rendement",
+    "title": "Immobilier Locatif à Haut Rendement | IZILY FIRE",
+    "url": "/immobilier-locatif-a-haut-rendement",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "immobilier-pierre-papier",
+    "title": "Immobilier Pierre-Papier | IZILY FIRE",
+    "url": "/immobilier-pierre-papier",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "immobilier",
+    "title": "Immobilier | IZILY FIRE",
+    "url": "/immobilier",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "interviews",
+    "title": "Interviews | IZILY FIRE",
+    "url": "/interviews",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "investir-2",
+    "title": "Investir 2 | IZILY FIRE",
+    "url": "/investir-2",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "Explorez toutes les classes d'actifs",
+      "immobilier",
+      "meilleurs",
+      "actifs",
+      "psychologie",
+      "optimisation",
+      "rendement"
+    ]
+  },
+  {
+    "id": "investir",
+    "title": "Investir | IZILY FIRE",
+    "url": "/investir",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "investissement-passif",
+    "title": "Investissement Passif | IZILY FIRE",
+    "url": "/investissement-passif",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "accueil",
+    "title": "Izily Fire: Mouvement FIRE & Gestion Patrimoniale | IZILY FIRE",
+    "url": "/",
+    "category": "Pages",
+    "description": "Découvrez Izily Fire, votre hub central dédié au mouvement FIRE. Explorez des outils interactifs pour atteindre l'indépendance financière et une gestion patrimoniale efficace sur…",
+    "keywords": [
+      "mouvement fire",
+      "financial independence",
+      "gestion patrimoniale",
+      "Explorez l'univers IZILY FIRE",
+      "Des outils indispensables",
+      "Rejoignez une communauté unique FIRE",
+      "Pourquoi IZILY FIRE ?",
+      "Rejoignez-nous sans plus attendre",
+      "Des valeurs que nous défendons",
+      "immobilier",
+      "outils",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs"
+    ]
+  },
+  {
+    "id": "kit-media",
+    "title": "Kit media | IZILY FIRE",
+    "url": "/kit-media",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "la-diversification",
+    "title": "La diversification | IZILY FIRE",
+    "url": "/la-diversification",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "la-taxe-puma",
+    "title": "La taxe PUMA | IZILY FIRE",
+    "url": "/la-taxe-puma",
+    "category": "Pages",
+    "description": "Créer une micro-entreprise \"FIRE-friendly\" permet d'annuler légalement cette taxe en validant un niveau minimal de revenus d'activité, tout en conservant une liberté temporelle…",
+    "keywords": [
+      "Calcul Détaillé des Flux :",
+      "La Règle de Neutralisation",
+      "Bilan Net Final :",
+      "immobilier",
+      "revenus",
+      "meilleurs",
+      "activité",
+      "assurance",
+      "entreprise"
+    ]
+  },
+  {
+    "id": "la-vie-apres-le-fire",
+    "title": "La vie après le FIRE | IZILY FIRE",
+    "url": "/la-vie-apres-le-fire",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "lean-fire",
+    "title": "Lean FIRE | IZILY FIRE",
+    "url": "/lean-fire",
+    "category": "Pages",
+    "description": "Lean FIRE désigne une stratégie spécifique au sein du mouvement FIRE qui prône une approche plus modeste et prudente. Contrairement au FIRE traditionnel, qui peut impliquer un…",
+    "keywords": [
+      "immobilier",
+      "financière",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs"
+    ]
+  },
+  {
+    "id": "les-10-cles-de-la-reussite",
+    "title": "Les 10 clés de la réussite | IZILY FIRE",
+    "url": "/les-10-cles-de-la-reussite",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "les-10-piliers-du-fire",
+    "title": "Les 10 piliers du FIRE | IZILY FIRE",
+    "url": "/les-10-piliers-du-fire",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "les-astuces-du-fire",
+    "title": "Les astuces du FIRE | IZILY FIRE",
+    "url": "/les-astuces-du-fire",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "les-astuces-fire-copy",
+    "title": "Les astuces FIRE Copy | IZILY FIRE",
+    "url": "/les-astuces-fire-copy",
+    "category": "Pages",
+    "description": "Voici une synthèse structurée des meilleures astuces concrètes partagées et validées par les communautés FIRE (sur Reddit ainsi que sur X et les forums spécialisés).",
+    "keywords": [
+      "immobilier",
+      "optimisation",
+      "meilleurs",
+      "assurance",
+      "psychologie",
+      "actifs"
+    ]
+  },
+  {
+    "id": "les-dividendes",
+    "title": "Les dividendes | IZILY FIRE",
+    "url": "/les-dividendes",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "les-fondations-du-fire2",
+    "title": "Les fondations du FIRE2 | IZILY FIRE",
+    "url": "/les-fondations-du-fire2",
+    "category": "Pages",
+    "description": "Le FIRE fonctionne grâce à la puissance des intérêts composés. En investissant régulièrement dans des actifs rentables (actions, immobilier), votre patrimoine croît de façon…",
+    "keywords": [
+      "Pourquoi ça marche ?",
+      "Origine du mouvement",
+      "immobilier",
+      "meilleurs",
+      "actifs",
+      "psychologie",
+      "optimisation",
+      "rendement"
+    ]
+  },
+  {
+    "id": "les-pires-erreurs-du-fire",
+    "title": "Les pires erreurs du FIRE | IZILY FIRE",
+    "url": "/les-pires-erreurs-du-fire",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "les-strategies-daccumulation",
+    "title": "Les stratégies d'accumulation | IZILY FIRE",
+    "url": "/les-strategies-daccumulation",
+    "category": "Pages",
+    "description": "Le taux d'épargne représente le pourcentage du revenu net réinvesti chaque mois :",
+    "keywords": [
+      "Définition et Principe Mathématique",
+      "Avantages",
+      "Inconvénients et Limites",
+      "Conseils d'Ajustement FIRE",
+      "Le Taux d'Épargne Agressif",
+      "frais",
+      "immobilier",
+      "épargne",
+      "gestion",
+      "fiscale",
+      "rendement"
+    ]
+  },
+  {
+    "id": "livres",
+    "title": "Livres | IZILY FIRE",
+    "url": "/livres",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "maximisation-des-revenus",
+    "title": "Maximisation des revenus | IZILY FIRE",
+    "url": "/maximisation-des-revenus",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "meilleures-assurance-vie",
+    "title": "Meilleures assurance vie | IZILY FIRE",
+    "url": "/meilleures-assurance-vie",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "meilleures-banques",
+    "title": "Meilleures banques | IZILY FIRE",
+    "url": "/meilleures-banques",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "meilleurs-courtiers",
+    "title": "Meilleurs courtiers | IZILY FIRE",
+    "url": "/meilleurs-courtiers",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "meilleurs-cto",
+    "title": "Meilleurs CTO | IZILY FIRE",
+    "url": "/meilleurs-cto",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "meilleurs-pea",
+    "title": "Meilleurs PEA | IZILY FIRE",
+    "url": "/meilleurs-pea",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "meilleurs-per",
+    "title": "Meilleurs PER | IZILY FIRE",
+    "url": "/meilleurs-per",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "meteoaero",
+    "title": "meteoaero | IZILY FIRE",
+    "url": "/meteoaero",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "les-fondations-du-fire",
+    "title": "Mouvement FIRE : bâtir son indépendance financière | IZILY FIRE",
+    "url": "/les-fondations-du-fire",
+    "category": "Pages",
+    "description": "Découvrez les fondations du mouvement FIRE : apprenez à calculer votre taux d’épargne, à définir votre chiffre FIRE et à préparer une retraite anticipée pour bâtir votre…",
+    "keywords": [
+      "indépendance financière",
+      "mouvement FIRE",
+      "retraite anticipée",
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "mto",
+    "title": "mto | IZILY FIRE",
+    "url": "/mto",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "metaux",
+    "title": "Métaux | IZILY FIRE",
+    "url": "/metaux",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "reseaux-sociaux",
+    "title": "Nos réseaux sociaux | IZILY FIRE",
+    "url": "/reseaux-sociaux",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "obligations",
+    "title": "Obligations | IZILY FIRE",
+    "url": "/obligations",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "optimisation-budget-frugalisme",
+    "title": "Optimisation Budget & Frugalisme | IZILY FIRE",
+    "url": "/optimisation-budget--frugalisme",
+    "category": "Pages",
+    "description": "Analyse minutieuse de vos postes de dépenses pour maximiser votre capacité d'épargne mensuelle sans compromettre votre mode de vie.",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "optimisation",
+      "psychologie",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "optimisation-budgetaire",
+    "title": "Optimisation budgétaire | IZILY FIRE",
+    "url": "/optimisation-budgetaire",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "optimisation-fiscale",
+    "title": "Optimisation fiscale | IZILY FIRE",
+    "url": "/optimisation-fiscale",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "outils",
+    "title": "Outils | IZILY FIRE",
+    "url": "/outils",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "Parcourez nos catégories d'outils",
+      "Nos outils phares",
+      "Nos ressources pratiques",
+      "Pourquoi utiliser nos outils ?",
+      "immobilier",
+      "outils",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs"
+    ]
+  },
+  {
+    "id": "pack-transition-and-rente",
+    "title": "Pack transition & rente | IZILY FIRE",
+    "url": "/pack-transition-and-rente",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "parcours-de-linvestisseur",
+    "title": "Parcours de l'investisseur | IZILY FIRE",
+    "url": "/parcours-de-linvestisseur",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "partenaires",
+    "title": "Partenaires | IZILY FIRE",
+    "url": "/partenaires",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "partenariats",
+    "title": "Partenariats | IZILY FIRE",
+    "url": "/partenariats",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "pea-vs-cto-vs-av",
+    "title": "PEA vs CTO vs AV | IZILY FIRE",
+    "url": "/pea-vs-cto-vs-av",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "pea",
+    "title": "PEA | IZILY FIRE",
+    "url": "/pea",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "per",
+    "title": "PER | IZILY FIRE",
+    "url": "/per",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "places-de-parking",
+    "title": "Places de parking | IZILY FIRE",
+    "url": "/places-de-parking",
+    "category": "Pages",
+    "description": "Les personnes habitant dans des zones géographiques à forte densité éprouvent beaucoup de difficultés pour garer leur voiture, qui plus est dans un endroit sûr. Certains parkings…",
+    "keywords": [
+      "La définition du budget",
+      "La recherche immobilière",
+      "La fixation du loyer",
+      "parking",
+      "immobilier",
+      "rendement",
+      "investissement",
+      "place",
+      "investir"
+    ]
+  },
+  {
+    "id": "planification-trajectoire-fire-avance",
+    "title": "Planification Trajectoire FIRE Avancée | IZILY FIRE",
+    "url": "/planification-trajectoire-fire-avance",
+    "category": "Pages",
+    "description": "Modélisation financière de votre date de retraite anticipée intégrant l'inflation, le taux de retrait sécurisé et plusieurs scénarios de marché.",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "podcasts",
+    "title": "Podcasts | IZILY FIRE",
+    "url": "/podcasts",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "portefeuilles-fire-celebres",
+    "title": "Portefeuilles FIRE célèbres | IZILY FIRE",
+    "url": "/portefeuilles-fire-celebres",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "pourquoi-un-euro",
+    "title": "Pourquoi un euro | IZILY FIRE",
+    "url": "/pourquoi-un-euro",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "rendement",
+      "outils",
+      "psychologie",
+      "optimisation"
+    ]
+  },
+  {
+    "id": "presse",
+    "title": "Presse | IZILY FIRE",
+    "url": "/presse",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "private-equity",
+    "title": "Private Equity | IZILY FIRE",
+    "url": "/private-equity",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "protection-et-cadre-legal",
+    "title": "Protection et cadre légal | IZILY FIRE",
+    "url": "/protection-et-cadre-legal",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "protections-des-actifs",
+    "title": "Protections des Actifs | IZILY FIRE",
+    "url": "/protections-des-actifs",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "psychologie-et-mode-de-vie",
+    "title": "Psychologie et mode de vie | IZILY FIRE",
+    "url": "/psychologie-et-mode-de-vie",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "qcm-amf-certif-cif",
+    "title": "QCM AMF certif CIF | IZILY FIRE",
+    "url": "/qcm-amf-certif-cif",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "refinancement-strategique",
+    "title": "Refinancement Stratégique | IZILY FIRE",
+    "url": "/refinancement-strategique",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "ressources",
+    "title": "Ressources | IZILY FIRE",
+    "url": "/ressources",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "revue-de-presse",
+    "title": "revue de presse | IZILY FIRE",
+    "url": "/revue-de-presse",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "Ils ont parlé d'IZILY FIRE",
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "scpi",
+    "title": "SCPI | IZILY FIRE",
+    "url": "/scpi",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "session-de-rebalancement-annuel",
+    "title": "Session de Rebalancement Annuel | IZILY FIRE",
+    "url": "/session-de-rebalancement-annuel",
+    "category": "Pages",
+    "description": "Revue stratégique de votre portefeuille d'actifs, ajustement du niveau de risque et recalibrage de votre trajectoire d'indépendance.",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "actifs",
+      "psychologie",
+      "optimisation",
+      "rendement"
+    ]
+  },
+  {
+    "id": "sites-internet",
+    "title": "Sites internet | IZILY FIRE",
+    "url": "/sites-internet",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "sources-de-revenus-secondaires",
+    "title": "Sources de revenus secondaires | IZILY FIRE",
+    "url": "/sources-de-revenus-secondaires",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "stratgie-immobilier-locatif-fire",
+    "title": "Stratégie Immobilier Locatif FIRE | IZILY FIRE",
+    "url": "/stratgie-immobilier-locatif-fire",
+    "category": "Pages",
+    "description": "Évaluation de vos opportunités immobilières pour générer du cash-flow récurrent et accélérer l'atteinte de votre indépendance financière.",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "stratgie-portefeuille-etf-passif",
+    "title": "Stratégie Portefeuille ETF & Passif | IZILY FIRE",
+    "url": "/stratgie-portefeuille-etf--passif",
+    "category": "Pages",
+    "description": "Conception d'une allocation d'actifs diversifiée et optimisée fiscalement via PEA et CTO, adaptée à votre profil de risque.",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "actifs",
+      "psychologie",
+      "optimisation",
+      "rendement"
+    ]
+  },
+  {
+    "id": "strategies-fire-et-execution",
+    "title": "Stratégies FIRE et exécution | IZILY FIRE",
+    "url": "/strategies-fire-et-execution",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "strategies",
+    "title": "Stratégies | IZILY FIRE",
+    "url": "/strategies",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "taux-de-retrait-securise",
+    "title": "Taux de retrait sécurisé (SWR) | IZILY FIRE",
+    "url": "/taux-de-retrait-securise",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "test-culture-financiere",
+    "title": "Test culture financière | IZILY FIRE",
+    "url": "/test-culture-financiere",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "transition-coast-fire-reconversion",
+    "title": "Transition Coast FIRE & Reconversion | IZILY FIRE",
+    "url": "/transition-coast-fire--reconversion",
+    "category": "Pages",
+    "description": "Élaboration d'un plan personnalisé pour réduire votre temps de travail ou réorienter votre carrière une fois le capital de base constitué.",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "transmission-et-ingenierie-patrimoniale",
+    "title": "Transmission et Ingénierie Patrimoniale | IZILY FIRE",
+    "url": "/transmission-et-ingenierie-patrimoniale",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "typologie-fire",
+    "title": "Typologie FIRE | IZILY FIRE",
+    "url": "/typologie-fire",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "temoignages",
+    "title": "Témoignages | IZILY FIRE",
+    "url": "/temoignages",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "vip",
+    "title": "Vip | IZILY FIRE",
+    "url": "/vip",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "blog-post1",
+    "title": "Votre article de blog | IZILY FIRE",
+    "url": "/blog-post1",
+    "category": "Pages",
+    "description": "Description de l'article de blog :",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "blog-post",
+    "title": "Votre article de blog | IZILY FIRE",
+    "url": "/blog-post",
+    "category": "Pages",
+    "description": "Description de l'article de blog :",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "blog-post2",
+    "title": "Votre article de blog | IZILY FIRE",
+    "url": "/blog-post2",
+    "category": "Pages",
+    "description": "Description de l'article de blog :",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "epargne-de-precaution",
+    "title": "Épargne de Précaution | IZILY FIRE",
+    "url": "/epargne-de-precaution",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "bibliotheque",
+    "title": "👑 Bibliothèque | IZILY FIRE",
+    "url": "/bibliotheque",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "calculateur-allocations-personnalisees",
+    "title": "👑 Calculateur allocations personnalisées | IZILY FIRE",
+    "url": "/calculateur-allocations-personnalisees",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "calculateur-depargne-de-securite",
+    "title": "👑 Calculateur d'épargne de sécurité | IZILY FIRE",
+    "url": "/calculateur-depargne-de-securite",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "calculateur-de-taux-depargne",
+    "title": "👑 Calculateur de taux d’épargne | IZILY FIRE",
+    "url": "/calculateur-de-taux-depargne",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "calculateur-frais-de-notaire",
+    "title": "👑 Calculateur frais de notaire | IZILY FIRE",
+    "url": "/calculateur-frais-de-notaire",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "calculateur-rentabilite-locative",
+    "title": "👑 Calculateur rentabilité locative | IZILY FIRE",
+    "url": "/calculateur-rentabilite-locative",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "cartographies-secteurs",
+    "title": "👑 Cartographies secteurs | IZILY FIRE",
+    "url": "/cartographies-secteurs",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "code-prorealtime",
+    "title": "👑 Code prorealtime | IZILY FIRE",
+    "url": "/code-prorealtime",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "comment-proteger-son-capital",
+    "title": "👑 Comment protéger son capital | IZILY FIRE",
+    "url": "/comment-proteger-son-capital",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "comparateur-de-biens-immobiliers",
+    "title": "👑 Comparateur de biens immobiliers | IZILY FIRE",
+    "url": "/comparateur-de-biens-immobiliers",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "comparateur-de-prix-immobilier",
+    "title": "👑 Comparateur de prix immobilier | IZILY FIRE",
+    "url": "/comparateur-de-prix-immobilier",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "dashboard-finance-mondiale",
+    "title": "👑 Dashboard finance mondiale | IZILY FIRE",
+    "url": "/dashboard-finance-mondiale",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "dashboard-finance",
+    "title": "👑 Dashboard finance | IZILY FIRE",
+    "url": "/dashboard-finance",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "dashboard-patrimoine",
+    "title": "👑 Dashboard patrimoine | IZILY FIRE",
+    "url": "/dashboard-patrimoine",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "fiches-pratiques",
+    "title": "👑 Fiches pratiques | IZILY FIRE",
+    "url": "/fiches-pratiques",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "generateur-visuel-portefeuille",
+    "title": "👑 Générateur visuel portefeuille | IZILY FIRE",
+    "url": "/generateur-visuel-portefeuille",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "hub-formations",
+    "title": "👑 Hub formations | IZILY FIRE",
+    "url": "/hub-formations",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "hub-outils-fire",
+    "title": "👑 Hub outils FIRE | IZILY FIRE",
+    "url": "/hub-outils-fire",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "hub-outils-immobilier",
+    "title": "👑 Hub outils immobilier | IZILY FIRE",
+    "url": "/hub-outils-immobilier",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "insiders",
+    "title": "👑 Insiders | IZILY FIRE",
+    "url": "/insiders",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "la-selection-etf",
+    "title": "👑 La sélection ETF | IZILY FIRE",
+    "url": "/la-selection-etf",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "mon-profil-fire-investisseur",
+    "title": "👑 Mon profil FIRE investisseur | IZILY FIRE",
+    "url": "/mon-profil-fire-investisseur",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "optimiseur-de-decumulation-fiscale",
+    "title": "👑 Optimiseur de décumulation fiscale | IZILY FIRE",
+    "url": "/optimiseur-de-decumulation-fiscale",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "premium",
+    "title": "👑 Premium | IZILY FIRE",
+    "url": "/-premium",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "mon parcours",
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "profiter-vie",
+    "title": "👑 Profiter de la vie | IZILY FIRE",
+    "url": "/profiter-vie",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "psychologie-du-trading",
+    "title": "👑 Psychologie du trading | IZILY FIRE",
+    "url": "/psychologie-du-trading",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-allocations-fire",
+    "title": "👑 Simulateur allocations FIRE | IZILY FIRE",
+    "url": "/simulateur-allocations-fire",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-capacite-emprunt",
+    "title": "👑 Simulateur capacité emprunt | IZILY FIRE",
+    "url": "/simulateur-capacite-emprunt",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-dassurance-emprunteur",
+    "title": "👑 Simulateur d'assurance emprunteur | IZILY FIRE",
+    "url": "/simulateur-dassurance-emprunteur",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-assurance-vie",
+    "title": "👑 Simulateur d'assurance vie | IZILY FIRE",
+    "url": "/simulateur-assurance-vie",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-dinflation",
+    "title": "👑 Simulateur d'inflation | IZILY FIRE",
+    "url": "/simulateur-dinflation",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-doverlap-etf",
+    "title": "👑 Simulateur d'overlap ETF | IZILY FIRE",
+    "url": "/simulateur-doverlap-etf",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-de-budget",
+    "title": "👑 Simulateur de budget | IZILY FIRE",
+    "url": "/simulateur-de-budget",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-de-charges-de-copropriete",
+    "title": "👑 Simulateur de charges de copropriété | IZILY FIRE",
+    "url": "/simulateur-de-charges-de-copropriete",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-correlation-actifs",
+    "title": "👑 Simulateur de corrélation d'actifs | IZILY FIRE",
+    "url": "/simulateur-correlation-actifs",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-de-destinations-fire",
+    "title": "👑 Simulateur de destinations FIRE | IZILY FIRE",
+    "url": "/simulateur-de-destinations-fire",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-dettes",
+    "title": "👑 Simulateur de dettes | IZILY FIRE",
+    "url": "/simulateur-dettes",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-de-pv-immobiliere",
+    "title": "👑 Simulateur de PV Immobilière | IZILY FIRE",
+    "url": "/simulateur-de-pv-immobiliere",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-rendement-obligataire",
+    "title": "👑 Simulateur de rendement obligataire | IZILY FIRE",
+    "url": "/simulateur-rendement-obligataire",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-de-revenus-scpi",
+    "title": "👑 Simulateur de revenus SCPI | IZILY FIRE",
+    "url": "/simulateur-de-revenus-scpi",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-de-taxe-puma",
+    "title": "👑 Simulateur de taxe PUMA | IZILY FIRE",
+    "url": "/simulateur-de-taxe-puma",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-fire-avec-retraite",
+    "title": "👑 Simulateur FIRE avec retraite | IZILY FIRE",
+    "url": "/simulateur-fire-avec-retraite",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-investissements-programmes",
+    "title": "👑 Simulateur investissements programmés | IZILY FIRE",
+    "url": "/simulateur-investissements-programmes",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-monte-carlo",
+    "title": "👑 Simulateur Monte Carlo | IZILY FIRE",
+    "url": "/simulateur-monte-carlo",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-proprietaire-vs-locataire",
+    "title": "👑 Simulateur Propriétaire VS Locataire | IZILY FIRE",
+    "url": "/simulateur-proprietaire-vs-locataire",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-pret-immobilier",
+    "title": "👑 Simulateur prêt immobilier | IZILY FIRE",
+    "url": "/simulateur-pret-immobilier",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-regle-4-pourcent",
+    "title": "👑 Simulateur Règle 4% | IZILY FIRE",
+    "url": "/simulateur-regle-4-pourcent",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-resilience-financiere",
+    "title": "👑 Simulateur résilience financière | IZILY FIRE",
+    "url": "/simulateur-resilience-financiere",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-scpi-nue-propriete-vs-pleine-propriete",
+    "title": "👑 Simulateur SCPI nue propriété VS pleine propriété | IZILY FIRE",
+    "url": "/simulateur-scpi-nue-propriete-vs-pleine-propriete",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-swr",
+    "title": "👑 Simulateur SWR | IZILY FIRE",
+    "url": "/simulateur-swr",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-taux-de-retrait-variable",
+    "title": "👑 Simulateur taux de retrait variable | IZILY FIRE",
+    "url": "/simulateur-taux-de-retrait-variable",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "suivi-des-marches",
+    "title": "👑 Suivi des marchés | IZILY FIRE",
+    "url": "/suivi-des-marches",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "selecteur-de-scpi",
+    "title": "👑 Sélecteur de SCPI | IZILY FIRE",
+    "url": "/selecteur-de-scpi",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "analyses-actions",
+    "title": "👑Analyses actions | IZILY FIRE",
+    "url": "/analyses-actions",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "arbitrage-etf",
+    "title": "👑Arbitrage ETF | IZILY FIRE",
+    "url": "/arbitrage-etf",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "architecture-core-satellite",
+    "title": "👑Architecture Core-Satellite | IZILY FIRE",
+    "url": "/architecture-core-satellite",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "calculateur-independance-financiere",
+    "title": "👑Calculateur indépendance financière | IZILY FIRE",
+    "url": "/calculateur-independance-financiere",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "calculateur-interets-composes",
+    "title": "👑Calculateur intérêts composés | IZILY FIRE",
+    "url": "/calculateur-interets-composes",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "calculateur-money-management",
+    "title": "👑Calculateur money management | IZILY FIRE",
+    "url": "/calculateur-money-management",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "calculateur-revenus-passifs",
+    "title": "👑Calculateur revenus passifs | IZILY FIRE",
+    "url": "/calculateur-revenus-passifs",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "cartographies-secteurs-copy",
+    "title": "👑Cartographies secteurs Copy | IZILY FIRE",
+    "url": "/cartographies-secteurs-copy",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "chasseur-dabonnements",
+    "title": "👑Chasseur d'abonnements | IZILY FIRE",
+    "url": "/chasseur-dabonnements",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "chasseur-daddictions",
+    "title": "👑Chasseur d'addictions | IZILY FIRE",
+    "url": "/chasseur-daddictions",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "comparateur-obligations",
+    "title": "👑Comparateur d'obligations | IZILY FIRE",
+    "url": "/comparateur-obligations",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-pea-vs-cto",
+    "title": "👑Comparateur PEA VS CTO | IZILY FIRE",
+    "url": "/simulateur-pea-vs-cto",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "crowdfunding-and-dette-privee",
+    "title": "👑Crowdfunding & Dette Privée | IZILY FIRE",
+    "url": "/crowdfunding-and-dette-privee",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "createur-de-watchlist",
+    "title": "👑Créateur de watchlist | IZILY FIRE",
+    "url": "/createur-de-watchlist",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "fiches-pratiques-copy",
+    "title": "👑Fiches pratiques Copy | IZILY FIRE",
+    "url": "/fiches-pratiques-copy",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "gestion-locative",
+    "title": "👑Gestion locative | IZILY FIRE",
+    "url": "/gestion-locative",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "guide-budget",
+    "title": "👑Guide budget | IZILY FIRE",
+    "url": "/guide-budget",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "guide-diversification",
+    "title": "👑Guide diversification | IZILY FIRE",
+    "url": "/guide-diversification",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "guide-etf",
+    "title": "👑Guide ETF | IZILY FIRE",
+    "url": "/guide-etf",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "guide-fire",
+    "title": "👑Guide FIRE | IZILY FIRE",
+    "url": "/guide-fire",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "guide-fiscalite",
+    "title": "👑Guide fiscalité | IZILY FIRE",
+    "url": "/guide-fiscalite",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "guide-scpi",
+    "title": "👑Guide SCPI | IZILY FIRE",
+    "url": "/guide-scpi",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "ingenierie-des-frais-and-tracking-difference",
+    "title": "👑Ingénierie des Frais & Tracking Difference | IZILY FIRE",
+    "url": "/ingenierie-des-frais-and-tracking-difference",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "prix-juste",
+    "title": "👑Le prix juste d'une action | IZILY FIRE",
+    "url": "/prix-juste",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "matrice-de-correlation-et-profil-de-risque",
+    "title": "👑Matrice de corrélation et profil de risque | IZILY FIRE",
+    "url": "/matrice-de-correlation-et-profil-de-risque",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "planificateur-dividendes",
+    "title": "👑Planificateur dividendes | IZILY FIRE",
+    "url": "/planificateur-dividendes",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "protecteur-de-patrimoine",
+    "title": "👑Protecteur de patrimoine | IZILY FIRE",
+    "url": "/protecteur-de-patrimoine",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "psychologie-du-cash-flow",
+    "title": "👑Psychologie du Cash-flow | IZILY FIRE",
+    "url": "/psychologie-du-cash-flow",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "regles-et-methodologie-de-rebalancement",
+    "title": "👑Règles et méthodologie de rebalancement | IZILY FIRE",
+    "url": "/regles-et-methodologie-de-rebalancement",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-creation-holding",
+    "title": "👑Simulateur création holding | IZILY FIRE",
+    "url": "/simulateur-creation-holding",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-credit-lombard",
+    "title": "👑Simulateur crédit Lombard | IZILY FIRE",
+    "url": "/simulateur-credit-lombard",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-dimpact-des-frais",
+    "title": "👑Simulateur d'impact des frais | IZILY FIRE",
+    "url": "/simulateur-dimpact-des-frais",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-de-patrimoine",
+    "title": "👑Simulateur de patrimoine | IZILY FIRE",
+    "url": "/simulateur-de-patrimoine",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-taxe-fonciere",
+    "title": "👑Simulateur de taxe foncière | IZILY FIRE",
+    "url": "/simulateur-taxe-fonciere",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-de-viager",
+    "title": "👑Simulateur de viager | IZILY FIRE",
+    "url": "/simulateur-de-viager",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-duree-capital",
+    "title": "👑Simulateur durée du capital | IZILY FIRE",
+    "url": "/simulateur-duree-capital",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-fire",
+    "title": "👑Simulateur FIRE | IZILY FIRE",
+    "url": "/simulateur-fire",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-frais-sucession",
+    "title": "👑Simulateur frais de sucession | IZILY FIRE",
+    "url": "/simulateur-frais-sucession",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-rentes-viageres",
+    "title": "👑Simulateur rentes viagères | IZILY FIRE",
+    "url": "/simulateur-rentes-viageres",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "simulateur-taxe-logements-vacants",
+    "title": "👑Simulateur taxe logements vacants | IZILY FIRE",
+    "url": "/simulateur-taxe-logements-vacants",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "strategies-doptions-and-rendement-complementaire",
+    "title": "👑Stratégies d'Options & Rendement Complémentaire | IZILY FIRE",
+    "url": "/strategies-doptions-and-rendement-complementaire",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
   }
 ]
