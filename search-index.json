@@ -1,0 +1,37 @@
+[
+  {
+    "id": "strategie-etf",
+    "title": "La stratégie ETF pour l’indépendance financière",
+    "url": "/strategie-etf",
+    "category": "Guides",
+    "description": "Comprendre les ETF, choisir un indice, limiter les frais et construire un portefeuille simple et durable pour atteindre le FIRE.",
+    "keywords": ["ETF", "fonds indiciels", "MSCI World", "frais", "investissement passif", "portefeuille", "FIRE"],
+    "featured": true
+  },
+  {
+    "id": "simulateur-scpi",
+    "title": "Simulateur SCPI : nue-propriété ou crédit",
+    "url": "/outils/simulateur-scpi",
+    "category": "Outils",
+    "description": "Comparez une SCPI en nue-propriété payée comptant avec une SCPI en pleine propriété à crédit : rendement, fiscalité et patrimoine final.",
+    "keywords": ["SCPI", "nue-propriété", "crédit", "simulateur", "immobilier", "rendement", "fiscalité"],
+    "featured": true
+  },
+  {
+    "id": "glossaire-budget-frugalisme",
+    "title": "Glossaire : budget, frugalisme et psychologie de l’argent",
+    "url": "/glossaire/budget-frugalisme",
+    "category": "Glossaire",
+    "description": "Les termes essentiels pour maîtriser son budget : taux d’épargne, frugalisme, inflation du train de vie, règle des 4 %.",
+    "keywords": ["budget", "frugalisme", "taux d’épargne", "règle des 4 %", "épargne", "dépenses", "psychologie"]
+  },
+  {
+    "id": "idees-recues-fire",
+    "title": "Idées reçues et fausses idées sur le FIRE",
+    "url": "/articles/idees-recues-fire",
+    "category": "Articles",
+    "description": "Il faut être riche, vivre de pâtes, renoncer à tout : on démonte les mythes les plus répandus sur l’indépendance financière.",
+    "keywords": ["FIRE", "mythes", "indépendance financière", "retraite anticipée", "Lean FIRE", "Fat FIRE"],
+    "featured": true
+  }
+]
