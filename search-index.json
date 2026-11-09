@@ -819,6 +819,21 @@
     ]
   },
   {
+    "id": "espace-membre",
+    "title": "Espace membre | IZILY FIRE",
+    "url": "/espace-membre",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
     "id": "etf",
     "title": "ETF | IZILY FIRE",
     "url": "/etf",
@@ -2304,6 +2319,21 @@
     "url": "/blog-post2",
     "category": "Pages",
     "description": "Description de l'article de blog :",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "rendement"
+    ]
+  },
+  {
+    "id": "x-finance",
+    "title": "X finance | IZILY FIRE",
+    "url": "/x-finance",
+    "category": "Pages",
+    "description": "",
     "keywords": [
       "immobilier",
       "meilleurs",
