@@ -77,7 +77,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -107,7 +108,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -123,7 +125,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -159,6 +162,31 @@
     ]
   },
   {
+    "id": "accueil",
+    "title": "ACCUEIL | IZILY FIRE",
+    "url": "/",
+    "category": "Pages",
+    "description": "Découvrez Izily Fire, votre hub central dédié au mouvement FIRE. Explorez des outils interactifs pour atteindre l'indépendance financière et une gestion patrimoniale efficace sur…",
+    "keywords": [
+      "mouvement fire",
+      "financial independence",
+      "gestion patrimoniale",
+      "Explorez l'univers IZILY FIRE",
+      "Des outils indispensables",
+      "Rejoignez une communauté unique FIRE",
+      "Pourquoi IZILY FIRE ?",
+      "Rejoignez-nous sans plus attendre",
+      "Des valeurs que nous défendons",
+      "immobilier",
+      "outils",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "actifs",
+      "bourse"
+    ]
+  },
+  {
     "id": "actions",
     "title": "Actions | IZILY FIRE",
     "url": "/actions",
@@ -170,7 +198,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -185,7 +214,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -200,7 +230,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -215,7 +246,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -230,7 +262,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -245,7 +278,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -260,7 +294,8 @@
       "optimisation",
       "psychologie",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -275,7 +310,8 @@
       "meilleurs",
       "psychologie",
       "optimisation",
-      "actifs"
+      "actifs",
+      "bourse"
     ]
   },
   {
@@ -290,7 +326,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -305,7 +342,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -320,7 +358,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -335,7 +374,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -350,7 +390,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -365,7 +406,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -401,7 +443,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -434,7 +477,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -464,7 +508,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -495,7 +540,10 @@
       "rendement",
       "meilleurs",
       "philosophie",
-      "assurance"
+      "assurance",
+      "stratégie",
+      "financière",
+      "bourse"
     ]
   },
   {
@@ -513,7 +561,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -528,7 +577,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -545,7 +595,8 @@
       "meilleurs",
       "outils",
       "revenus",
-      "actifs"
+      "actifs",
+      "financière"
     ]
   },
   {
@@ -560,7 +611,23 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
+    ]
+  },
+  {
+    "id": "conseil-des-ministres-du-budget",
+    "title": "Conseil des Ministres du Budget | IZILY FIRE",
+    "url": "/conseil-des-ministres-du-budget",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "bourse",
+      "actifs"
     ]
   },
   {
@@ -575,7 +642,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -590,7 +658,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -605,7 +674,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -620,7 +690,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -635,7 +706,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -650,7 +722,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -665,7 +738,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -680,7 +754,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -695,7 +770,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -710,7 +786,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -725,7 +802,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -740,7 +818,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -755,7 +834,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -770,7 +850,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -785,7 +866,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -800,7 +882,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -815,7 +898,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -830,7 +914,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -845,7 +930,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -863,7 +949,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -893,7 +980,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -908,7 +996,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -923,7 +1012,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -938,7 +1028,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -953,7 +1044,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -968,7 +1060,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -983,7 +1076,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -998,7 +1092,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1013,7 +1108,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1028,7 +1124,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1043,7 +1140,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1058,7 +1156,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1079,7 +1178,10 @@
       "meilleurs",
       "outils",
       "revenus",
-      "stratégies"
+      "stratégies",
+      "psychologie",
+      "optimisation",
+      "bourse"
     ]
   },
   {
@@ -1094,7 +1196,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1109,7 +1212,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1124,7 +1228,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1139,7 +1244,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1154,7 +1260,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1169,7 +1276,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1184,7 +1292,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1200,7 +1309,8 @@
       "actifs",
       "psychologie",
       "optimisation",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1215,7 +1325,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1230,13 +1341,14 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
-    "id": "accueil",
+    "id": "accueil-copy1",
     "title": "Izily Fire: Mouvement FIRE & Gestion Patrimoniale | IZILY FIRE",
-    "url": "/",
+    "url": "/accueil-copy1",
     "category": "Pages",
     "description": "Découvrez Izily Fire, votre hub central dédié au mouvement FIRE. Explorez des outils interactifs pour atteindre l'indépendance financière et une gestion patrimoniale efficace sur…",
     "keywords": [
@@ -1252,8 +1364,23 @@
       "immobilier",
       "outils",
       "meilleurs",
+      "financière",
+      "psychologie",
+      "optimisation"
+    ]
+  },
+  {
+    "id": "izilyplay",
+    "title": "IzilyPlay | IZILY FIRE",
+    "url": "/izilyplay",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
       "psychologie",
       "optimisation",
+      "bourse",
       "actifs"
     ]
   },
@@ -1269,7 +1396,23 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
+    ]
+  },
+  {
+    "id": "la-bourse-fantome",
+    "title": "La bourse fantôme | IZILY FIRE",
+    "url": "/la-bourse-fantome",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "bourse",
+      "actifs"
     ]
   },
   {
@@ -1284,7 +1427,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1317,7 +1461,53 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
+    ]
+  },
+  {
+    "id": "le-cockpit-fire",
+    "title": "Le cockpit FIRE | IZILY FIRE",
+    "url": "/le-cockpit-fire",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "bourse",
+      "actifs"
+    ]
+  },
+  {
+    "id": "le-defi-des-7-erreurs",
+    "title": "Le Défi des 7 Erreurs | IZILY FIRE",
+    "url": "/le-defi-des-7-erreurs",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "bourse",
+      "actifs"
+    ]
+  },
+  {
+    "id": "le-juste-prix",
+    "title": "Le juste prix | IZILY FIRE",
+    "url": "/le-juste-prix",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "bourse",
+      "actifs"
     ]
   },
   {
@@ -1332,7 +1522,8 @@
       "meilleurs",
       "psychologie",
       "optimisation",
-      "actifs"
+      "actifs",
+      "stratégie"
     ]
   },
   {
@@ -1347,7 +1538,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1362,7 +1554,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1377,7 +1570,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1392,7 +1586,8 @@
       "meilleurs",
       "assurance",
       "psychologie",
-      "actifs"
+      "actifs",
+      "bourse"
     ]
   },
   {
@@ -1407,7 +1602,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1424,7 +1620,8 @@
       "actifs",
       "psychologie",
       "optimisation",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1439,7 +1636,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1474,7 +1672,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1489,7 +1688,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1504,7 +1704,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1519,7 +1720,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1534,7 +1736,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1549,7 +1752,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1564,7 +1768,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1579,7 +1784,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1594,7 +1800,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1612,7 +1819,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1627,7 +1835,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1642,7 +1851,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1657,7 +1867,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1672,7 +1883,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1687,7 +1899,8 @@
       "optimisation",
       "psychologie",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1702,7 +1915,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1717,7 +1931,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1736,7 +1951,8 @@
       "meilleurs",
       "psychologie",
       "optimisation",
-      "actifs"
+      "actifs",
+      "bourse"
     ]
   },
   {
@@ -1751,7 +1967,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1766,7 +1983,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1781,7 +1999,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1796,7 +2015,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1811,7 +2031,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1826,7 +2047,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1841,7 +2063,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1874,7 +2097,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1889,7 +2113,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1904,7 +2129,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1934,7 +2160,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1949,7 +2176,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1964,7 +2192,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1979,7 +2208,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -1994,7 +2224,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2009,7 +2240,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2024,7 +2256,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2039,7 +2272,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2055,7 +2289,23 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
+    ]
+  },
+  {
+    "id": "sauvez-votre-liberte-financiere",
+    "title": "Sauvez votre Liberté Financière | IZILY FIRE",
+    "url": "/sauvez-votre-liberte-financiere",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "bourse",
+      "actifs"
     ]
   },
   {
@@ -2070,7 +2320,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2085,7 +2336,8 @@
       "actifs",
       "psychologie",
       "optimisation",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2100,7 +2352,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2115,7 +2368,23 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
+    ]
+  },
+  {
+    "id": "strategie-bucket",
+    "title": "Stratégie Bucket | IZILY FIRE",
+    "url": "/strategie-bucket",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "bourse",
+      "actifs"
     ]
   },
   {
@@ -2130,7 +2399,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2145,7 +2415,8 @@
       "actifs",
       "psychologie",
       "optimisation",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2160,7 +2431,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2175,7 +2447,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2190,7 +2463,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2205,7 +2479,38 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
+    ]
+  },
+  {
+    "id": "thermometre-de-marche",
+    "title": "Thermomètre de Marché | IZILY FIRE",
+    "url": "/thermometre-de-marche",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "bourse",
+      "actifs"
+    ]
+  },
+  {
+    "id": "tinder-invest",
+    "title": "Tinder invest | IZILY FIRE",
+    "url": "/tinder-invest",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "bourse",
+      "actifs"
     ]
   },
   {
@@ -2220,7 +2525,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2235,7 +2541,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2250,7 +2557,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2265,7 +2573,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2280,7 +2589,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2295,7 +2605,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2310,7 +2621,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2325,7 +2637,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2340,7 +2653,23 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
+    ]
+  },
+  {
+    "id": "a-la-croisee-des-chemins",
+    "title": "À la croisée des chemins | IZILY FIRE",
+    "url": "/a-la-croisee-des-chemins",
+    "category": "Pages",
+    "description": "",
+    "keywords": [
+      "immobilier",
+      "meilleurs",
+      "psychologie",
+      "optimisation",
+      "bourse",
+      "actifs"
     ]
   },
   {
@@ -2355,7 +2684,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2370,7 +2700,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2385,7 +2716,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2400,7 +2732,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2415,7 +2748,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2430,7 +2764,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2445,7 +2780,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2460,7 +2796,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2475,7 +2812,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2490,7 +2828,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2505,7 +2844,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2520,7 +2860,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2535,7 +2876,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2550,7 +2892,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2565,7 +2908,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2580,7 +2924,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2595,7 +2940,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2610,7 +2956,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2625,7 +2972,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2640,7 +2988,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2655,7 +3004,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2670,7 +3020,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2685,7 +3036,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2700,7 +3052,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2716,7 +3069,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2731,7 +3085,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2746,7 +3101,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2761,7 +3117,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2776,7 +3133,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2791,7 +3149,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2806,7 +3165,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2821,7 +3181,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2836,7 +3197,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2851,7 +3213,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2866,7 +3229,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2881,7 +3245,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2896,7 +3261,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2911,7 +3277,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2926,7 +3293,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2941,7 +3309,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2956,7 +3325,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2971,7 +3341,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -2986,7 +3357,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3001,7 +3373,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3016,7 +3389,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3031,7 +3405,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3046,7 +3421,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3061,7 +3437,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3076,7 +3453,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3091,7 +3469,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3106,7 +3485,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3121,7 +3501,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3136,7 +3517,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3151,7 +3533,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3166,7 +3549,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3181,7 +3565,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3196,7 +3581,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3211,7 +3597,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3226,7 +3613,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3241,7 +3629,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3256,7 +3645,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3271,7 +3661,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3286,7 +3677,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3301,7 +3693,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3316,7 +3709,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3331,7 +3725,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3346,7 +3741,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3361,7 +3757,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3376,7 +3773,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3391,7 +3789,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3406,7 +3805,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3421,7 +3821,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3436,7 +3837,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3451,7 +3853,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3466,7 +3869,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3481,7 +3885,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3496,7 +3901,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3511,7 +3917,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3526,7 +3933,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3541,7 +3949,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3556,7 +3965,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3571,7 +3981,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3586,7 +3997,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3601,7 +4013,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3616,7 +4029,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3631,7 +4045,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3646,7 +4061,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3661,7 +4077,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3676,7 +4093,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3691,7 +4109,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3706,7 +4125,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3721,7 +4141,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3736,7 +4157,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3751,7 +4173,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   },
   {
@@ -3766,7 +4189,8 @@
       "psychologie",
       "optimisation",
       "actifs",
-      "rendement"
+      "rendement",
+      "bourse"
     ]
   }
 ]
